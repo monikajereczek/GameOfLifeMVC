@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GameOfLifeMVC", "GameOfLifeMVC\GameOfLifeMVC.pyproj", "{4AA7055C-0F23-4F18-A65C-957F27E4663E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA7055C-0F23-4F18-A65C-957F27E4663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA7055C-0F23-4F18-A65C-957F27E4663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30344F09-8A51-4ABF-B17E-CA9CE204CF45}
+	EndGlobalSection
+EndGlobal
